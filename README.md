@@ -1,4 +1,7 @@
-#Explaining the Gap: Visualizing One’s Predictions Improves Recall and Comprehension of Data 
+#Explaining the Gap
+
+A information associated with our [paper](chi2017.pdf) for [CHI 2017](https://chi2017.acm.org/),  Explaining the Gap: Visualizing One’s Predictions Improves Recall and Comprehension of Data .
+
 
 ##A) Code and detailed analysis of the main study and the replication study: explaining_the_gap.R.
 
